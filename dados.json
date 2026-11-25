@@ -34,22 +34,22 @@
 
   "enderecos": [
     {
-      "estado": "Paraná",
-      "tipo": "Curitiba | Escritório",
+      "estado": "Estado 1",
+      "tipo": "Cidade | Escritório",
       "linha1": "Rua Exemplo, 000 - 0° andar",
-      "linha2": "Bairro, Curitiba/PR"
+      "linha2": "Bairro, Cidade/UF"
     },
     {
-      "estado": "São Paulo",
-      "tipo": "São Paulo | Ponto de Apoio",
+      "estado": "Estado 2",
+      "tipo": "Cidade | Ponto de Apoio",
       "linha1": "Rua Exemplo, 000 – CJ 00",
-      "linha2": "Bairro, São Paulo/SP"
+      "linha2": "Bairro, Cidade/UF"
     },
     {
-      "estado": "Santa Catarina",
-      "tipo": "Itajaí | Ponto de Apoio",
+      "estado": "Estado 3",
+      "tipo": "Cidade | Ponto de Apoio",
       "linha1": "Av. Exemplo, 000 - sala 00",
-      "linha2": "Bairro, Itajaí/SC"
+      "linha2": "Bairro, Cidade/UF"
     }
   ],
 
