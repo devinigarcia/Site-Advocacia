@@ -1,0 +1,117 @@
+{
+  "nome": "Template Advogados",
+  "sigla": "Template",
+  "sufixoLogo": "",
+  "logo": "",
+  "assinatura": "SOBRENOME SOBRENOME SOBRENOME SOBRENOME",
+  "descricao": "Reestruturação e Insolvência Empresarial",
+
+  "telefones": "(00) 0000-0000 | (00) 00000-0000",
+  "whatsapp": "5500000000000",
+  "email": "contato@seudominio.adv.br",
+  "emailPrivacidade": "privacidade@seudominio.adv.br",
+  "endereco": "Rua Exemplo, 000 - 0° andar - Bairro, Cidade - UF",
+  "mapaEmbed": "",
+
+  "redes": {
+    "linkedin": "#",
+    "instagram": "#",
+    "facebook": "#"
+  },
+
+  "anoCopyright": 2026,
+  "desenvolvidoPor": "",
+
+  "formulario": {
+    "action": ""
+  },
+
+  "imagens": {
+    "hero": "",
+    "faixaEscritorio": "",
+    "fundoEscuro": ""
+  },
+
+  "enderecos": [
+    {
+      "estado": "Paraná",
+      "tipo": "Curitiba | Escritório",
+      "linha1": "Rua Exemplo, 000 - 0° andar",
+      "linha2": "Bairro, Curitiba/PR"
+    },
+    {
+      "estado": "São Paulo",
+      "tipo": "São Paulo | Ponto de Apoio",
+      "linha1": "Rua Exemplo, 000 – CJ 00",
+      "linha2": "Bairro, São Paulo/SP"
+    },
+    {
+      "estado": "Santa Catarina",
+      "tipo": "Itajaí | Ponto de Apoio",
+      "linha1": "Av. Exemplo, 000 - sala 00",
+      "linha2": "Bairro, Itajaí/SC"
+    }
+  ],
+
+  "equipe": [
+    {
+      "nome": "Nome do Sócio 1",
+      "oab": "OAB/UF nº 00.000",
+      "titulo": "Titulação ou especialidade",
+      "bioCurta": "Resumo curto do currículo, com duas ou três linhas sobre a trajetória e a área de atuação.",
+      "bio": "Mini-currículo do profissional: formação, áreas de atuação, experiência e principais destaques da carreira. Substitua este texto pelo conteúdo definitivo.",
+      "foto": "assets/img/advogado-placeholder.svg",
+      "socio": true,
+      "lider": true
+    },
+    {
+      "nome": "Nome do Sócio 2",
+      "oab": "OAB/UF nº 00.000",
+      "titulo": "Titulação ou especialidade",
+      "bioCurta": "Resumo curto do currículo, com duas ou três linhas sobre a trajetória e a área de atuação.",
+      "bio": "Mini-currículo do profissional: formação, áreas de atuação, experiência e principais destaques da carreira. Substitua este texto pelo conteúdo definitivo.",
+      "foto": "assets/img/advogado-placeholder.svg",
+      "socio": true,
+      "lider": true
+    },
+    {
+      "nome": "Nome do Sócio 3",
+      "oab": "OAB/UF nº 00.000",
+      "titulo": "Titulação ou especialidade",
+      "bioCurta": "Resumo curto do currículo, com duas ou três linhas sobre a trajetória e a área de atuação.",
+      "bio": "Mini-currículo do profissional: formação, áreas de atuação, experiência e principais destaques da carreira. Substitua este texto pelo conteúdo definitivo.",
+      "foto": "assets/img/advogado-placeholder.svg",
+      "socio": true
+    },
+    {
+      "nome": "Nome do Sócio 4",
+      "oab": "OAB/UF nº 00.000",
+      "titulo": "Titulação ou especialidade",
+      "bioCurta": "Resumo curto do currículo, com duas ou três linhas sobre a trajetória e a área de atuação.",
+      "bio": "Mini-currículo do profissional: formação, áreas de atuação, experiência e principais destaques da carreira. Substitua este texto pelo conteúdo definitivo.",
+      "foto": "assets/img/advogado-placeholder.svg",
+      "socio": true
+    },
+    {
+      "nome": "Nome do Advogado 5",
+      "oab": "OAB/UF nº 00.000",
+      "titulo": "Titulação ou especialidade",
+      "bio": "Mini-currículo do profissional: formação, áreas de atuação, experiência e principais destaques da carreira. Substitua este texto pelo conteúdo definitivo.",
+      "foto": "assets/img/advogado-placeholder.svg"
+    },
+    {
+      "nome": "Nome do Advogado 6",
+      "oab": "OAB/UF nº 00.000",
+      "titulo": "Titulação ou especialidade",
+      "bio": "Mini-currículo do profissional: formação, áreas de atuação, experiência e principais destaques da carreira. Substitua este texto pelo conteúdo definitivo.",
+      "foto": "assets/img/advogado-placeholder.svg"
+    },
+    {
+      "nome": "Nome do Advogado 7",
+      "oab": "OAB/UF nº 00.000",
+      "titulo": "Titulação ou especialidade",
+      "bio": "Mini-currículo do profissional: formação, áreas de atuação, experiência e principais destaques da carreira. Substitua este texto pelo conteúdo definitivo.",
+      "foto": "assets/img/advogado-placeholder.svg"
+    }
+  ]
+}
