@@ -167,9 +167,9 @@ mark { background: none; color: var(--gold); }
 .equipe.tres { grid-template-columns: repeat(3, 1fr); max-width: 960px; margin: 70px auto 0; }
 .equipe.dois { grid-template-columns: repeat(2, 1fr); gap: 60px; }
 .membro { transition: opacity .35s, transform .35s; }
-/* A foto ocupa todo o retângulo (proporção ~1,29:1); o azul fica de fundo para fotos com transparência */
-.membro .foto { position: relative; aspect-ratio: 1.293; margin-bottom: 34px; background: var(--navy); overflow: hidden; }
-.membro .foto img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center top; }
+.membro .foto { position: relative; aspect-ratio: 3 / 4; margin-bottom: 34px; }
+.membro .foto::before { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 58%; background: var(--navy); }
+.membro .foto img { position: absolute; left: 8.5%; top: 0; width: 83%; height: 100%; object-fit: cover; }
 .membro h3 { font-size: 30px; font-weight: 400; }
 .membro .cargo { color: var(--gold); font-weight: 500; margin-top: 3px; }
 .membro .bio { margin-top: 11px; }

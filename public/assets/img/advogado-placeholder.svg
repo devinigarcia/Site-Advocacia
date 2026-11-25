@@ -1,14 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 402" role="img" aria-label="Espaço para a foto do profissional">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" role="img" aria-label="Foto do profissional">
   <defs>
     <linearGradient id="f" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#9a7655"/>
       <stop offset="1" stop-color="#6f5239"/>
     </linearGradient>
   </defs>
-  <rect width="520" height="402" fill="url(#f)"/>
-  <g fill="none" stroke="#e4d8ca" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".85">
-    <circle cx="260" cy="158" r="40"/>
-    <path d="M186 268c0-40 33-66 74-66s74 26 74 66"/>
-  </g>
-  <text x="260" y="322" text-anchor="middle" font-family="Lato, Arial, sans-serif" font-size="17" letter-spacing="4" fill="#e4d8ca" opacity=".85">ADICIONAR FOTO</text>
+  <rect width="384" height="512" fill="url(#f)"/>
+  <circle cx="192" cy="190" r="74" fill="#e4d8ca"/>
+  <path d="M40 512c0-106 62-176 152-176s152 70 152 176z" fill="#e4d8ca"/>
+  <text x="192" y="470" text-anchor="middle" font-family="Lato, Arial, sans-serif" font-size="22" fill="#6f5239">FOTO</text>
 </svg>
